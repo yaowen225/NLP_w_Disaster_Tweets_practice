@@ -29,7 +29,9 @@ DistilBERT 模型是 BERT 模型的蒸餾(distilled)形式。
 判斷出哪些是真正的災難，把認為是的預測標記為 1，否的預測標記為 0，分析準確率為何。
 並使用F1 評估的計算方式判斷這個模型的表現優劣。
 
-資料集來源: Kaggle-Natural Language Processing with Disaster Tweets
+## 資料集來源: 
+Kaggle-Natural Language Processing with Disaster Tweets
 
-實作的程式碼連結: [程式碼連結](https://colab.research.google.com/drive/1mCWCBwt7RXITSOjRBAvhRQ3FwES1P5Cy?usp=sharing 
+## 實作的程式碼連結: 
+[程式碼連結](https://colab.research.google.com/drive/1mCWCBwt7RXITSOjRBAvhRQ3FwES1P5Cy?usp=sharing 
 )
